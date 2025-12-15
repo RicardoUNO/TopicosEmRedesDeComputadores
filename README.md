@@ -8,6 +8,7 @@ deploy the machine - ok (conectado)
 
 quantas portas estão abertas
 		sudo nmap -sS 10.67.167.16
+		
 		2 portas abertas, 22/tcp open ssh e 80/tcp open http
 
 qual versao do apache está rodando
